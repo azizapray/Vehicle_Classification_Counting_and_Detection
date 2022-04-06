@@ -2,14 +2,13 @@ import streamlit as st
 
 def app():
     st.markdown("<h1 style='text-align: center; color: yellow;'>VEHICLE DETECTOR</h1>", unsafe_allow_html=True)
-    # st.title("<h1 style='text-align: center;'>VEHICLE DETECTION COUNTER</h1>",)
-    st.markdown("<p style='text-align: center'>Web-app ini merupakan visualisasi dari hasil project yang telah kami buat mengenai <b>Object Detection<b>.<br>Dataset yang digunakan dalam project ini dapat dilihat pada <a href='https://www.kaggle.com/datasets/rishabkoul1/vechicle-dataset'>Kaggle</a>.</p>", unsafe_allow_html=True)
-    # st.markdown('Web-app ini merupakan visualisasi dari hasil project yang telah kami buat mengenai **Object Detection**')
-    # st.markdown("<p style='text-align: center'>Dataset yang digunakan dalam project ini dapat dilihat pada <a href='https://www.kaggle.com/datasets/rishabkoul1/vechicle-dataset'>Kaggle</a>.</p>", unsafe_allow_html=True)
+    st.markdown("<p style='text-align: center'>Web-app ini merupakan visualisasi dari hasil project VECTOR yang telah kami buat mengenai <b>Object Detection<b>.<br>Dataset yang digunakan dalam project ini dapat dilihat pada <a href='https://www.kaggle.com/datasets/rishabkoul1/vechicle-dataset'>Kaggle</a>.</p>", unsafe_allow_html=True)
     st.write('---')
+
+    # -------- Klasifikasi Dataset ---------
     st.header('About the Dataset')
     st.subheader('Classification')
-    st.write('4 class type of vehicle')
+    
     col1, col2 = st.columns(2)
     col3, col4 = st.columns(2)
  

@@ -7,7 +7,7 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="collapsed",
     menu_items={
-        'About': "Our Github Profile: https://github.com/lutfiadam97, https://github.com/azizapray, ",
+        'About': "Our Github Profile: https://github.com/lutfiadam97, https://github.com/azizapray, https://github.com/sandikaaplg",
     }
 )
 
