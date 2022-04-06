@@ -8,4 +8,14 @@ Contoh penerapan dalam kehidupan sehari-hari :
 
 - Traffic Management, memantau jenis kendaraan yang sering lewat di suatu jalan tertentu, sehingga bisa mengetahui faktor penyebab terjadinya kemacetan.
 
-Note : Model yang dipakai adalah **model_vehicle_v5.h5**
+Rencana yang akan datang :
+
+1. Menambahkan fitur "Vehicle Counter" yaitu menghitung jumlah kendaraan yang lewat di suatu jalan/tol.
+
+2. Menambahkan fitur deteksi nomor plat kendaraan, berguna untuk mengetahui saldo pengguna kendaraan atau biaya yang diperlukan untuk masuk ke gerbang tol atau biaya untuk membayar parkiran kendaraan bermotor.
+
+Note : 
+
+- Model yang dipakai adalah **model_vehicle_v5.h5**
+
+- File Vehicle_classification_notebook hanya digunakan sebagai percobaan model CNN.
