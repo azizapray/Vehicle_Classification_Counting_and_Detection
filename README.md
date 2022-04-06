@@ -7,3 +7,5 @@ Contoh penerapan dalam kehidupan sehari-hari :
 - Parking Lot Management, mengelola jumlah kendaraan yang masuk dan keluar dari area parkir.
 
 - Traffic Management, memantau jenis kendaraan yang sering lewat di suatu jalan tertentu, sehingga bisa mengetahui faktor penyebab terjadinya kemacetan.
+
+Note : Model yang dipakai adalah **model_vehicle_v5.h5**
